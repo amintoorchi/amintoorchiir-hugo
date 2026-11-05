@@ -1,1 +1,1 @@
-# My personal landing page with HUGO
+## My personal landing page with HUGO
