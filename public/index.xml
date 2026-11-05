@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>4minToorchi</title>
-		<link>//localhost:1313/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on 4minToorchi</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 06 Nov 2026 00:45:08 +0330</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Hello</title>
-				<link>//localhost:1313/blog/hello/</link>
+				<link>http://localhost:1313/blog/hello/</link>
 				<pubDate>Fri, 06 Nov 2026 00:45:08 +0330</pubDate>
-				<guid>//localhost:1313/blog/hello/</guid>
+				<guid>http://localhost:1313/blog/hello/</guid>
 				<description>&lt;h1 id=&#34;testing-hugo-&#34;&gt;Testing Hugo !&lt;/h1&gt;</description>
 			</item>
 	</channel>

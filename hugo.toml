@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://amintoorchi.ir"
 title = "4minToorchi"
 locale = "en-us"
 
@@ -9,7 +9,7 @@ mainSections = ["blog"]
     path = "github.com/panr/hugo-theme-terminal/v4"
 [params]
   contentTypeName = "blog"
-  
+
 [markup.highlight]
   noClasses = false
 
