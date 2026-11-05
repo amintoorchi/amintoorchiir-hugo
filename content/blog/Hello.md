@@ -24,5 +24,10 @@ toc = false
 +++
 
 
+# Welcome to My Blog
 
-# Testing Hugo !
+Hello, I'm Amin — a developer interested in Linux, backend development, and open-source technologies.
+
+This is my personal space to share what I learn, build, and explore along the way.
+
+More posts coming soon!
