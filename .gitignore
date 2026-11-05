@@ -14,10 +14,10 @@
 .fseventsd
 .VolumeIcon.icns
 
-# # Hugo
-# /public/
-# /resources/_gen/
-# /.hugo_build.lock
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
 
 # Hugo Module Cache
 /hugo_cache/
@@ -46,6 +46,6 @@ Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# # Build artifacts
-# dist/
-# build/
+# Build artifacts
+dist/
+build/
